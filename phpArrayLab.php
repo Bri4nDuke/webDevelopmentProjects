@@ -1,6 +1,6 @@
 <!-- By: Brian Duke -->
 <!-- Date: 9/4/24 -->
-<!-- Description: PHP Array Lab 2 -->
+<!-- Description: PHP Array Lab: Display List of My Favorite BMWs Using PHP -->
 
 <html>
   <head>
